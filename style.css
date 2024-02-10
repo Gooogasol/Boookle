@@ -222,3 +222,20 @@ main{
 .back-in-black{
     color: #000;
 }
+        
+.review {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    background-color: whitesmoke;
+    padding: 1%;
+    border-radius: 10px;
+    width: fit-content;
+    margin-bottom: 2%;
+    padding-right: 30%;
+}
+
+.review img {
+    border-radius: 50%;
+    margin-right: 15px;
+}

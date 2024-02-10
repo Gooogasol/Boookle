@@ -1,0 +1,9 @@
+    display: grid;
+    align-items: center;
+    margin-bottom: 15px;
+    background-color: whitesmoke;
+    padding: 1%;
+    border-radius: 10px;
+    width: fit-content;
+    margin-bottom: 2%;
+    padding-right: 30%;
