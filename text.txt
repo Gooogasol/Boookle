@@ -1,4 +1,4 @@
-    display: grid;
+    display: gri;
     align-items: center;
     margin-bottom: 15px;
     background-color: whitesmoke;

@@ -233,9 +233,11 @@ main{
     width: fit-content;
     margin-bottom: 2%;
     padding-right: 30%;
+    width: 40%;
 }
 
 .review img {
     border-radius: 50%;
     margin-right: 15px;
 }
+
